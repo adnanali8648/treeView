@@ -1,0 +1,84 @@
+{
+    "name":"main-folder",
+    "id":1,
+    "type": "folder",
+    "expanded": true,
+    "items":[
+        {
+            "name":"file",
+             "id":2,
+            "type":"file",
+            "expanded": false
+        },
+        {
+            "name":"folder",
+            "id":6,
+            "type":"folder",
+            "expanded": false,
+            "items":[
+                
+                    {
+                        "name":"file",
+                         "id":7,
+                         "expanded": false,
+                        "type":"file"
+                    },
+                    {
+                        "name":"file",
+                        "id":8,
+                        "expanded": false,
+                        "type":"file"
+                    },
+                    {
+                        "name":"folder",
+                        "id":9,
+                        "expanded": false,
+                        "type":"folder",
+                        "items":[
+                            {
+                                "name":"file",
+                                 "id":10,
+                                 "expanded": false,
+                                "type":"file"
+                            },
+                            {
+                                "name":"file",
+                                 "id":11,
+                                 "expanded": false,
+                                "type":"file"
+                            }
+
+                        ]
+                    },
+                    {
+                        "name":"file",
+                         "id":12,
+                         "expanded": false,
+                        "type":"file"
+                    },
+                    {
+                        "name":"folder",
+                         "id":13,
+                         "expanded": false,
+                        "type":"folder",
+                        "items":[
+                            {
+                                "name":"file",
+                                "id":14,
+                                "expanded": false,
+                                "type":"file"
+                            },
+                            {
+                                "name":"file",
+                                "id":15,
+                                "expanded": false,
+                                "type":"file"
+                            }
+                        ]
+                    }
+
+                 
+        ]
+        }
+    ]
+}
